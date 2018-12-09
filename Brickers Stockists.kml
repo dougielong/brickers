@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Brickers Stockists</name>
+    <description>Click on your area to see if we are stocked there!</description>
+    <NetworkLink>
+      <name>Brickers Stockists</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/u/6/kml?forcekml=1&mid=1zIf6fTrnzLCYGnA2D7BRRYOhKgUw79iM]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
